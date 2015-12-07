@@ -8,8 +8,7 @@
 * virtualenv 13.1.2
 * socketIO-client 0.6.5
 
-## 准备工作
-
+## 准备工作-Mac平台
 ###1. 安装 virtualenv
 参考 [如何安装 virtualenv](https://github.com/yunba/docs/blob/master/support/knowledge_base/Install_virtualenv.md) 一文，
 安装 virtualenv。安装后，可先不设置虚拟环境，根据第 2 步进行设置。
@@ -37,7 +36,16 @@
 有关 virtualenv 的详细用法，请参考 [virtualenv 的官方文档](https://virtualenv.pypa.io/en/latest/userguide.html)。
 
 ###3. 注册云巴开发者账号
-打开 [云巴官方网站](http://yunba.io "云巴官方网站")，点击右上角的“注册”按钮创建账号。  
+打开 [云巴官方网站](http://yunba.io "云巴官方网站")，点击右上角的“注册”按钮创建账号。
+
+## 准备工作Windows平台
+###1.配置python、pip、easy_installer
+####安装python2.7
+下载相应版本的msi文件，官网下载地址：https://www.python.org/downloads/。
+####安装setuptools工具
+####安装
+####安装python2.7
+####安装python2.7
 
 ## 详细步骤
 
